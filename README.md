@@ -11,8 +11,10 @@ Web Developer, DSA, Gen-AI
 * 👥  I'm looking to collaborate on Full Stack and AI projects
 
 <p align="left">
+
+### My Skills
   
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,c,cpp,cmake,docker,express,fastapi,firebase,git,github,githubactions,go,graphql,latex,mongodb,mysql,nextjs,nodejs,npm,postman,py,react,redis,sqlite,tailwind,ts,ubuntu,vim,vscode,webpack)](https://skillicons.dev)
 
 ### Socials
 
