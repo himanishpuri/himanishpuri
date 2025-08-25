@@ -14,11 +14,7 @@ Web Developer, DSA, Gen-AI
 
 ### My Skills
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=js,html,css,aws,c,cpp,cmake,docker,express,fastapi,firebase,git,github,githubactions,go,graphql,latex,mongodb,mysql,nextjs,nodejs,npm,postman,py,react,redis,sqlite,tailwind,ts,ubuntu,vim,vscode,webpack" />
-  </a>
-</p>
+<p align="center"><a href="https://skillicons.dev"><img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=js,html,css,aws,c,cpp,cmake,docker,express,fastapi,firebase,git,github,githubactions,go,graphql,latex,mongodb,mysql,nextjs,nodejs,npm,postman,py,react,redis,sqlite,tailwind,ts,ubuntu,vim,vscode,webpack"/></a></p>
 
 ### Socials
 
