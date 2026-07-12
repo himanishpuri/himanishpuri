@@ -5,7 +5,7 @@ Web Developer, DSA, Gen-AI
 --------------------------
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [Portfolio](http://himanishpuri.tech)
+* 🖥️  See my portfolio at [Portfolio](http://himanishpuri.dev)
 * ✉️  You can contact me at [himanishpuri2235@gmail.com](mailto:himanishpuri2235@gmail.com)
 * 🧠  I'm currently learning LangChain, and LLMS
 * 👥  I'm looking to collaborate on Full Stack and AI projects
