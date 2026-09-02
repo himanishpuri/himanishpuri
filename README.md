@@ -9,14 +9,15 @@
   └───────────────────────────────────────────────────────────────────────┘
 -->
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:3382ed&height=140&section=header" alt="" width="100%" />
+
+<h1 align="center">Himanish&nbsp;Puri</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:3382ed&height=200&section=header&text=Himanish%20Puri&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer&descSize=18&descAlignY=64" alt="Himanish Puri" />
+  <strong>Software Engineer</strong> &nbsp;·&nbsp; ex-Salesforce (Network Security &amp; Infra) &nbsp;·&nbsp; Full-Stack &amp; Systems
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=3382ED&center=true&vCenter=true&width=680&lines=Software+Engineer;ex-Salesforce+%C2%B7+Network+Security+%26+Infra;Full-Stack+%E2%80%94+Next.js+%C2%B7+Go+%C2%B7+MERN;Systems+%C2%B7+DSP+%C2%B7+Self-hosted+AI" alt="what I do" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=3382ED&center=true&vCenter=true&width=620&height=40&lines=Next.js+%C2%B7+Go+%C2%B7+MERN;DSP+%C2%B7+Audio+Fingerprinting;Self-hosted+RAG+%C2%B7+llama.cpp" alt="focus areas" />
 </p>
 
 <p align="center">
