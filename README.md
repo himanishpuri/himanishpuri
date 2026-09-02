@@ -17,10 +17,6 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=3382ED&center=true&vCenter=true&width=620&height=40&lines=Next.js+%C2%B7+Go+%C2%B7+MERN;DSP+%C2%B7+Audio+Fingerprinting;Self-hosted+RAG+%C2%B7+llama.cpp" alt="focus areas" />
-</p>
-
-<p align="center">
   <a href="https://himanishpuri.dev"><img src="https://img.shields.io/badge/Portfolio-himanishpuri.dev-3382ed?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Portfolio" /></a>
   <a href="https://himanishpuri.dev/resu"><img src="https://img.shields.io/badge/Resume-PDF-3382ed?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=0d1117" alt="Resume" /></a>
   <a href="https://www.linkedin.com/in/himanish-puri-hk108"><img src="https://img.shields.io/badge/LinkedIn-Connect-3382ed?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" /></a>
