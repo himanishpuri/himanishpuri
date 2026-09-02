@@ -10,12 +10,12 @@
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:3382ed&height=200&section=header&text=Himanish%20Puri&fontSize=52&fontColor=ffffff&desc=Software%20Engineer&descSize=18&descAlignY=64&reversal=false" alt="Himanish Puri" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:3382ed&height=200&section=header&text=Himanish%20Puri&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer&descSize=18&descAlignY=64" alt="Himanish Puri" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=3382ED&center=true&vCenter=true&width=700&height=45&lines=Software+Engineer;ex-Salesforce+%C2%B7+Network+Security+%26+Infra;Full-Stack%3A+Next.js+%C2%B7+Go+%C2%B7+MERN;Systems+%C2%B7+DSP+%C2%B7+Self-hosted+AI" alt="what I do" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=3382ED&center=true&vCenter=true&width=680&lines=Software+Engineer;ex-Salesforce+%C2%B7+Network+Security+%26+Infra;Full-Stack+%E2%80%94+Next.js+%C2%B7+Go+%C2%B7+MERN;Systems+%C2%B7+DSP+%C2%B7+Self-hosted+AI" alt="what I do" />
   </a>
 </p>
 
