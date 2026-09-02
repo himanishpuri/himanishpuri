@@ -46,7 +46,8 @@ society.
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <strong>Languages</strong><br/>
+  <strong>Languages</strong>
+  <br/><br/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0d1117" alt="C++" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1117" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d1117" alt="JavaScript" />
@@ -55,7 +56,8 @@ society.
 </p>
 
 <p align="center">
-  <strong>Frontend</strong><br/>
+  <strong>Frontend</strong>
+  <br/><br/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0d1117" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0d1117" alt="Next.js" />
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0d1117" alt="Tailwind CSS" />
@@ -63,7 +65,8 @@ society.
 </p>
 
 <p align="center">
-  <strong>Backend</strong><br/>
+  <strong>Backend</strong>
+  <br/><br/>
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0d1117" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=0d1117" alt="Express" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0d1117" alt="FastAPI" />
@@ -72,7 +75,8 @@ society.
 </p>
 
 <p align="center">
-  <strong>Data</strong><br/>
+  <strong>Data</strong>
+  <br/><br/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0d1117" alt="MongoDB" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117" alt="MySQL" />
   <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white&labelColor=0d1117" alt="Redis" />
@@ -81,7 +85,8 @@ society.
 </p>
 
 <p align="center">
-  <strong>Cloud &amp; DevOps</strong><br/>
+  <strong>Cloud &amp; DevOps</strong>
+  <br/><br/>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&labelColor=0d1117" alt="AWS" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117" alt="Docker" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white&labelColor=0d1117" alt="Nginx" />
