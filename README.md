@@ -129,7 +129,7 @@ society.
 ### 🧊 Contribution Calendar (3D)
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-season-animate.svg" alt="3D contribution calendar" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" />
 </p>
 
 <sub>Animated isometric render, regenerated daily via GitHub Actions.</sub>
